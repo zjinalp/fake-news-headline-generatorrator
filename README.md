@@ -1,2 +1,2 @@
-# fake-news-headline-generatorrator
+# fake-news-headline-generator
 fake news headline generator
